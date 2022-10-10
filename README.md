@@ -3,7 +3,7 @@
 ---  
 🏈Choi Jinhyuk (Bucky Choi)🏈  
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white">
+<img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white">  
 💻Studying💻  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
 
 
 
