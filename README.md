@@ -1,5 +1,5 @@
-Hey guys! Welcome to the Bucky Choi' Github Page🐣  
-Here is my Profile for Computer Engineering 🤗 Please feel free on this!
+*Hey guys! Welcome to the Bucky Choi' Github Page🐣*<br/>
+*Here is my Profile for Computer Engineering 🤗 Please feel free on this!* <br/>
 
 
 
