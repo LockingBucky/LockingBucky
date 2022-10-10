@@ -1,12 +1,9 @@
-Hey guys! Welcome to the Bucky Choi' Github Page🐣
+Hey guys! Welcome to the Bucky Choi' Github Page🐣  
 Here is my Profile for Computer Engineering 🤗 Please feel free on this!
 
 
 
 
-
-<div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) </div>
 
 <!--
 **LockingBucky/LockingBucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
