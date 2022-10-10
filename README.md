@@ -1,12 +1,11 @@
-*Hey guys! Welcome to the Bucky Choi' Github Page🐣*<br/>
-*Here is my Profile for Computer Engineering 🤗 Please feel free on this!* <br/>
-
+<center>*Hey guys! Welcome to the Bucky Choi' Github Page🐣*</center><br/>
+<center>*Here is my Profile for Computer Engineering 🤗 Please feel free on this!* </center><br/>
+---
 🏈Choi Jinhyuk (Bucky Choi)🏈  
 
 💻Studying💻  
 
-🛠Tools🛠
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+🛠Tools🛠 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
