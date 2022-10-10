@@ -3,7 +3,7 @@ Welcome to the Bucky Choi' Github Page🐣
 Here is my Profile for Computer Engineering 🤗 Please feel free on this!  
   
 🏈Choi Jinhyuk (Bucky Choi)🏈  
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.facebook.com/jinhyuck.choi.35"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     
