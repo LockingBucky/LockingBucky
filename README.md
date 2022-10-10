@@ -1,13 +1,12 @@
-### Hi there 👋
+Hey guys! Welcome to the Bucky Choi' Github Page🐣
+Here is my Profile for Computer Engineering 🤗 Please feel free on this!
+
+
+
+
 
 <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2312FCB8&title_bg=%23FFFA00&icon=&icon_color=%23B88F7F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) </div>
 
 <!--
 **LockingBucky/LockingBucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
