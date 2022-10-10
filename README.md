@@ -20,6 +20,9 @@ Please feel free on this!
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
 
+💬Languages
+***
+<img src="https://w.namu.la/s/82e8f0ba23b7861b4ae69bcf0523076d2151136ad3591c81e8cb49e563a6c46a9faaaa519f1f60a1f581714ddcf63c8c8c22d79c9e93ba0b010ca00663baf829eb6490e976e67934636aaad1758776ec449d15d227ef59212ec530af04470fe2" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/255px-Flag_of_Japan.svg.png" width="100">  <img src="https://w.namu.la/s/43a07e65f573eb41fffe67ac0d1008fa73b5c7a04a004ff9004ddf0680524c5c5bd8a30c724fd7966bd7d3a2f60d0bd17c3cc159dd41f704f9b6dc188a21346dc65cfee530555e33f3a141de4fd526b7a0e63b8717ce4a3e49accc221cd64766" width="100">
 
 
 
