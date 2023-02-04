@@ -1,4 +1,4 @@
-Hey there!        　
+Hey there!  
 Welcome to the Bucky Choi's Github Page🐣  
 Here is my Beginner Developer Profile for Computer Laguages Engineering  🤗  
 Please feel free on this!  
